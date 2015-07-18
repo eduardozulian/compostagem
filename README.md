@@ -1,7 +1,7 @@
 Compostagem
 ===========
 
-Dicas, referências, vídeos e manuais para a compostagem caseira
+Dicas, referências, vídeos e manuais para a compostagem caseira usando http://www.aymerick.com/2014/07/22/jekyll-github-pages-bower-bootstrap.html
 
 
 ## Com quem comprar
